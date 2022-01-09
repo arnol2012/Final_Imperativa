@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "titulo": "Career Girls",
+      "director": "Mike Leigh",
+      "genero": "Drama",
+      "anio": 1997,
+      "duracion": 83,
+      "fuePremiada": false,
+      "calificacionIMDB": 7.1
+    },
+    {
+      "id": 2,
+      "titulo": "Our Idiot Brother",
+      "director": "Jesse Peretz",
+      "genero": "Comedia",
+      "anio": 2011,
+      "duracion": 90,
+      "fuePremiada": true,
+      "calificacionIMDB": 6.4
+    },
+    {
+      "id": 3,
+      "titulo": "Liebestraum",
+      "director": "Mike Figgis",
+      "genero": "Horror",
+      "anio": 1991,
+      "duracion": 112,
+      "fuePremiada": true,
+      "calificacionIMDB": 6
+    },
+    {
+      "id": 4,
+      "titulo": "Summer and Smoke",
+      "director": "Peter Glenville",
+      "genero": "Drama",
+      "anio": 1961,
+      "duracion": 118,
+      "fuePremiada": true,
+      "calificacionIMDB": 6.9
+    },
+    {
+      "id": 5,
+      "titulo": "Axed",
+      "director": "Ryan Lee Driscoll",
+      "genero": "Thriller",
+      "anio": 2012,
+      "duracion": 84,
+      "fuePremiada": false,
+      "calificacionIMDB": 3.7
+    },
+    {
+      "id": 6,
+      "titulo": "The Mist",
+      "director": "Frank Darabont",
+      "genero": "Sci-Fi",
+      "anio": 2007,
+      "duracion": 126,
+      "fuePremiada": true,
+      "calificacionIMDB": 7.1
+    },
+    {
+      "id": 7,
+      "titulo": "Tom and Huck",
+      "director": "Peter Hewitt",
+      "genero": "Aventura",
+      "anio": 1995,
+      "duracion": 97,
+      "fuePremiada": false,
+      "calificacionIMDB": 5.5
+    },
+    {
+      "id": 8,
+      "titulo": "The Lord of the Rings: The Return of the King",
+      "director": "Peter Jackson",
+      "genero": "Aventura",
+      "anio": 2003,
+      "duracion": 401,
+      "fuePremiada": true,
+      "calificacionIMDB": 8.9
+    },
+    {
+      "id": 9,
+      "titulo": "Doctor Strange",
+      "director": "Scott Derrickson",
+      "genero": "Accion",
+      "anio": 2016,
+      "duracion": 115,
+      "fuePremiada": true,
+      "calificacionIMDB": 7.5
+    },
+    {
+      "id": 10,
+      "titulo": "The Last Lovecraft: Relic of Cthulhu",
+      "director": "Henry Saine",
+      "genero": "Horror",
+      "anio": 2009,
+      "duracion": 78,
+      "fuePremiada": false,
+      "calificacionIMDB": 5.6
+    }
+  ]
